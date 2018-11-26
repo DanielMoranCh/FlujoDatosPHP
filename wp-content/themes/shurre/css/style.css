@@ -1,0 +1,13 @@
+/*estilos propios del thema personalizados*/
+.brand-logo {
+    width: 100%;;
+}
+
+a {
+    text-decoration:none;
+    color:white;
+}
+
+#img-content {
+    width: 60%;    
+}
